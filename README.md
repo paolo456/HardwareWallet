@@ -1,3 +1,1 @@
-Plugin uses cURL to GET the API statistics. Displays them with an HTML/CSS object. 
-
-To display on a website, use the shortcode function call '[box]' in any text box. 
+I am going to create a local bitcoin wallet using .NET and C#. The libraries that I will be using are NBitcoin. I will be connecting to the wallet using a HTTP API. This will be a CLI wallet, so no GUI will be necessary, although it can be implemented in further iterations. 
